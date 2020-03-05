@@ -1,4 +1,4 @@
-# statistical-loss
+# Statistical-loss
 This repository is an extension of Caffe for the paper "Statistical Loss and Analysis for Deep Learning in Hyperspectral Image Classification" (TNNLS). ([paper](https://arxiv.org/abs/1912.12385))
 
 ## Installation
