@@ -7,11 +7,15 @@ This repository is an extension of Caffe for the paper "Statistical Loss and Ana
 2. Add the header and source file in the Caffe project.
 
 3. Modify
-`#include <complex.h>`
-`#define lapack_complex_float    float _Complex`
+```cpp
+#include <complex.h>
+#define lapack_complex_float    float _Complex
+```
 as
-`#include<complex>`
-`#define lapack_complex_float    std::complex<float>`
+```cpp
+#include<complex>
+#define lapack_complex_float    std::complex<float>
+```
 in the dependency package `NugetPackages/OpenBLAS.0.2.14.1/lib/native/include/lapacke.h`
 
 4. Compile Caffe framework.
