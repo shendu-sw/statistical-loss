@@ -7,7 +7,7 @@ This repository is an extension of Caffe for the paper "Statistical Loss and Ana
 ## Citing this work
 If you find this work helpful for your research, please consider citing:
 
-    @article{gongTNNLS20,
+    @article{gong2020,
         Author = {Zhiqiang Gong and Ping Zhong and Weidong Hu},
         Title = {Statistical Loss and Analysis for Deep Learning in Hyperspectral Image Classification},
         Booktitle = {IEEE Transactions on Neural Networks and Learning Systems},
