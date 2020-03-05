@@ -16,7 +16,7 @@ as
 #include<complex>
 #define lapack_complex_float    std::complex<float>
 
-in the dependency package NugetPackages/OpenBLAS.0.2.14.1/lib/native/include/lapacke.h
+in the dependency package `NugetPackages/OpenBLAS.0.2.14.1/lib/native/include/lapacke.h`
 
 4. Compile Caffe framework.
 
