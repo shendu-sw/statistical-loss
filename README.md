@@ -5,7 +5,7 @@ This repository is an extension of Caffe for the paper "Statistical Loss and Ana
 
 
 ## Citing this work
-If you find this work helpful for you, please consider citing:
+If you find this work helpful for your research, please consider citing:
 
     @article{gongTNNLS20,
         Author = {Zhiqiang Gong and Ping Zhong and Weidong Hu},
